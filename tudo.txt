@@ -1,0 +1,11 @@
+    1  code ./
+    2  ls
+    3  ls -lath
+    4  git init
+    5  git add
+    6  git status
+    7  git add.
+    8  git status
+    9  git commint -m "Criando paginas index e vendas"
+   10  git status
+   11  history > tudo.txt
