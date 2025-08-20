@@ -1,0 +1,64 @@
+    1  code ./
+    2  ls
+    3  ls -lath
+    4  git init
+    5  git add
+    6  git status
+    7  git add.
+    8  git status
+    9  git commint -m "Criando paginas index e vendas"
+   10  git status
+   11  history > tudo.txt
+   12  git commint -m "Criando paginas index e vendas"
+   13  git commit -m "Criando paginas index e vendas"
+   14  git add.
+   15  git add .
+   16  git status
+   17  git branch -M main
+   18  git remote add origin git@github.com:du-cyber77/aula1.git
+   19  git push -u origin main
+   20  git remote add origin git@github.com:du-cyber77/aula1.git
+   21  git push -u origin main
+   22  git pull origin main
+   23  git push -u origin main
+   24  git pull origin main
+   25  git pull origin main
+   26  git pull origin main
+   27* 
+   28  git branch -r
+   29  git push -u origin main
+   30* 
+   31  git pull origin main
+   32  git push -u origin main
+   33  git pull origin main
+   34  clear
+   35  git push -u origin main
+   36  ssh -keygen -R github.com
+   37  git push -u origin main
+   38  git remote -v
+   39  ETEPPARACAMBI@ETEP MINGW64 ~/Documents/git (main)
+   40  $ git push -u origin main
+   41  error: src refspec main does not match any
+   42  error: failed to push some refs to 'github.com:du-cyber77/aula1.git'
+   43  ETEPPARACAMBI@ETEP MINGW64 ~/Documents/git (main)
+   44  $ ssh -keygen -R github.com
+   45  Bad escape character 'ygen'.
+   46  ETEPPARACAMBI@ETEP MINGW64 ~/Documents/git (main)
+   47  $ git push -u origin main
+   48  error: src refspec main does not match any
+   49  error: failed to push some refs to 'github.com:du-cyber77/aula1.git'
+   50  ETEPPARACAMBI@ETEP MINGW64 ~/Documents/git (main)
+   51  $ git remote -v
+   52  origin  git@github.com:du-cyber77/aula1.git (fetch)
+   53  origin  git@github.com:du-cyber77/aula1.git (push)
+   54  ETEPPARACAMBI@ETEP MINGW64 ~/Documents/git (main)
+   55  $
+   56  git remote add origin git@github.com:du-cyber77/aula1.git
+   57  git remote add origin git@github.com:du-cyber77/aula1.git
+   58  git pull origin main
+   59  git log
+   60  git commit -m "Criada as paginas index e vendas"
+   61  git remote add origin git@github.com:du-cyber77/aula1.git
+   62  git push -u origin main
+   63  histroy > comandos.txt
+   64  history > comandos.txt
